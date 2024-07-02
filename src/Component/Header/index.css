@@ -4,6 +4,10 @@
   .small-icon {
     display: none;
   }
+  
+  .medium-header-link {
+    font-size: 20px;
+  }
   .header-container {
     display: flex;
     align-items: center;
