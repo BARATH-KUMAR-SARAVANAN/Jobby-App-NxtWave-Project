@@ -1,5 +1,4 @@
 import {BrowserRouter, Route, Switch, Redirect} from 'react-router-dom'
-
 import Home from './Component/Home'
 import ProtectedRoute from './Component/ProtectedRoute'
 import Jobs from './Component/Jobs'
